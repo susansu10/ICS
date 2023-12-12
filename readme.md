@@ -21,4 +21,3 @@
 5. register_0_trend
     - Draw IP = '192.168.1.19' register 0 value trend
 
-hii
